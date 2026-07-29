@@ -86,22 +86,6 @@ Passionate about building real-world web applications that solve practical probl
 
 ---
 
-# 📊 GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Nagarajan2005A&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nagarajan2005A&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarajan2005A&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Nagarajan2005A&theme=algolia&no-frame=true&margin-w=10)
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn → https://www.linkedin.com/in/nagarajan2005/
