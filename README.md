@@ -110,6 +110,19 @@ A complete gym membership and fitness management solution.
 </table>
 
 ---
+## 💼 Experience
+
+| Role | Organization | Duration |
+|------|--------------|----------|
+| 🐍 Python Developer Intern | **TechNest Intern (MSME, Government of India)** | **4 Weeks** |
+
+### Key Contributions
+
+- 🚀 Developed Python-based applications.
+- 🗄️ Worked with databases and backend concepts.
+- 🛠️ Debugged and optimized application code.
+- 🤝 Collaborated on practical software development tasks.
+- 📈 Improved programming and problem-solving skills.
 
 ## 📫 Connect with Me
 
