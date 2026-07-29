@@ -2,10 +2,6 @@
 
 ### 💻 B.Sc Computer Science Student | Python & Django Developer | Web Developer
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nagarajan2005A&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -58,10 +54,6 @@
 🏋️ Gym Management System
 
 🛒 BuyNest E-Commerce Website
-
-💬 ChatWave Chat Application
-
-🌐 Personal Portfolio Website
 
 ---
 
