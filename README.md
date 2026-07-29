@@ -8,10 +8,6 @@ Python Developer • Django Developer • Web Developer
 Passionate about building real-world web applications that solve practical problems.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Nagarajan2005A&label=Profile+Views&color=blue&style=flat" />
-</p>
-
 ---
 
 # 🚀 About Me
