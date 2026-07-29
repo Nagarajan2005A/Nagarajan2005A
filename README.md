@@ -82,9 +82,17 @@ Passionate about building real-world web applications that solve practical probl
 
 # 📜 Certifications
 
-🏅 Python Developer Internship – TechNest Intern (MSME) | 2025
-📊 Data Science and Analytics | HP LIFE | 2025 |
-🎨 Figma for UX Design | LinkedIn Learning | 2025
+- 🏅 **Python Developer Internship**  
+  **TechNest Intern (MSME)** | **2025**
+
+- 📊 **Data Science and Analytics**  
+  **HP LIFE** | **2025**
+
+- 🎨 **Figma for UX Design**  
+  **LinkedIn Learning** | **2025**
+
+- 🐍 **Python Programming Masterclass**  
+  **Udemy**
 
 ---
 
