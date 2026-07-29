@@ -51,55 +51,58 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🩸 Blood Donor Management System
 
 A smart web platform that connects blood donors with patients during emergencies.
 
-✨ Features
+✨ **Features**
 - Emergency Blood Requests
 - Nearby Donor Search
 - Donor Registration
 - Hospital Integration
 - Admin Dashboard
 
-🔧 **Tech Stack**
+🔧 **Tech Stack**  
 `Django` `Python` `HTML` `CSS` `JavaScript` `MySQL`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛒 BuyNest E-Commerce
 
 A modern online shopping platform with user authentication and order management.
 
-✨ Features
+✨ **Features**
 - Product Catalog
 - Shopping Cart
 - Wishlist
 - Checkout System
 - Order Tracking
 
-🔧 **Tech Stack**
+🔧 **Tech Stack**  
 `Django` `Python` `MySQL` `Bootstrap`
 
 </td>
 </tr>
 
+<tr>
+<td colspan="2" valign="top">
+
 ### 🏋️ Gym Management System
 
 A complete gym membership and fitness management solution.
 
-✨ Features
+✨ **Features**
 - Membership Registration
 - BMI Calculator
 - Trainer Profiles
 - Workout Programs
 - Contact & Inquiry
 
-🔧 **Tech Stack**
+🔧 **Tech Stack**  
 `Django` `Python` `MySQL`
 
 </td>
