@@ -49,27 +49,62 @@
 
 ## 🚀 Featured Projects
 
-🩸 Blood Donor Management System
+<table>
+<tr>
+<td width="50%">
 
-🏋️ Gym Management System
+### 🩸 Blood Donor Management System
 
-🛒 BuyNest E-Commerce Website
+A smart web platform that connects blood donors with patients during emergencies.
 
----
+✨ Features
+- Emergency Blood Requests
+- Nearby Donor Search
+- Donor Registration
+- Hospital Integration
+- Admin Dashboard
 
-## 📈 GitHub Stats
+🔧 **Tech Stack**
+`Django` `Python` `HTML` `CSS` `JavaScript` `MySQL`
 
-![](https://github-readme-stats.vercel.app/api?username=Nagarajan2005A&show_icons=true&theme=tokyonight)
+</td>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nagarajan2005A&theme=tokyonight)
+<td width="50%">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarajan2005A&layout=compact&theme=tokyonight)
+### 🛒 BuyNest E-Commerce
 
----
+A modern online shopping platform with user authentication and order management.
 
-## 🏆 GitHub Trophies
+✨ Features
+- Product Catalog
+- Shopping Cart
+- Wishlist
+- Checkout System
+- Order Tracking
 
-![](https://github-profile-trophy.vercel.app/?username=Nagarajan2005A&theme=algolia&margin-w=15)
+🔧 **Tech Stack**
+`Django` `Python` `MySQL` `Bootstrap`
+
+</td>
+</tr>
+
+### 🏋️ Gym Management System
+
+A complete gym membership and fitness management solution.
+
+✨ Features
+- Membership Registration
+- BMI Calculator
+- Trainer Profiles
+- Workout Programs
+- Contact & Inquiry
+
+🔧 **Tech Stack**
+`Django` `Python` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
