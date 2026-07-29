@@ -1,23 +1,33 @@
-# Hi 👋, I'm Nagarajan R
+<h1 align="center">Hi 👋, I'm Nagarajan R</h1>
 
-### 💻 B.Sc Computer Science Student | Python & Django Developer | Web Developer
+<h3 align="center">
+Python Developer • Django Developer • Web Developer
+</h3>
+
+<p align="center">
+Passionate about building real-world web applications that solve practical problems.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nagarajan2005A&label=Profile+Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Sc Computer Science Student
-- 💻 Passionate Web Developer
-- 🐍 Python & Django Enthusiast
-- 🌱 Currently Learning Full Stack Development
-- ❤️ Interested in AI, Cloud Computing & Open Source
-- 🎯 Goal: Become a Full Stack Developer
+- 💻 Python & Django Developer
+- 🌱 Currently learning Full Stack Development
+- ☁️ Exploring Cloud Computing & AI
+- 🚀 Interested in Backend Development
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,97 +50,72 @@
 
 ### Tools
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🩸 Blood Donor Management System
-
-A smart web platform that connects blood donors with patients during emergencies.
-
-✨ **Features**
-- Emergency Blood Requests
-- Nearby Donor Search
-- Donor Registration
-- Hospital Integration
-- Admin Dashboard
-
-🔧 **Tech Stack**  
-`Django` `Python` `HTML` `CSS` `JavaScript` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 BuyNest E-Commerce
-
-A modern online shopping platform with user authentication and order management.
-
-✨ **Features**
-- Product Catalog
-- Shopping Cart
-- Wishlist
-- Checkout System
-- Order Tracking
-
-🔧 **Tech Stack**  
-`Django` `Python` `MySQL` `Bootstrap`
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 🏋️ Gym Management System
-
-A complete gym membership and fitness management solution.
-
-✨ **Features**
-- Membership Registration
-- BMI Calculator
-- Trainer Profiles
-- Workout Programs
-- Contact & Inquiry
-
-🔧 **Tech Stack**  
-`Django` `Python` `MySQL`
-
-</td>
-</tr>
-</table>
-
----
-## 💼 Experience
-
-| Role | Organization | Duration |
-|------|--------------|----------|
-| 🐍 Python Developer Intern | **TechNest Intern (MSME, Government of India)** | **4 Weeks** |
-
-### Key Contributions
-
-- 🚀 Developed Python-based applications.
-- 🗄️ Worked with databases and backend concepts.
-- 🛠️ Debugged and optimized application code.
-- 🤝 Collaborated on practical software development tasks.
-- 📈 Improved programming and problem-solving skills.
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 🌐 Portfolio: https://YOUR-PORTFOLIO
-- 📧 Email: YOUR_EMAIL
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🩸 **Blood Donor Management** | Emergency blood donor platform connecting donors and recipients. | Django • Python • MySQL |
+| 🛒 **BuyNest E-Commerce** | Complete shopping website with authentication, cart, wishlist & order tracking. | Django • Bootstrap • MySQL |
+| 🏋️ **Gym Management System** | Gym membership management with BMI calculator and trainer dashboard. | Django • Python • MySQL |
 
 ---
 
-## ⚡ Quote
+# 💼 Experience
 
-> "Code. Learn. Build. Repeat."
+## 🐍 Python Developer Intern
+
+**TechNest Intern (MSME, Government of India)**
+
+**Duration:** 4 Weeks
+
+### Responsibilities
+
+- Developed Python applications.
+- Worked on backend development.
+- Solved programming challenges.
+- Improved debugging skills.
+- Worked with SQL databases.
+
+---
+
+# 📜 Certifications
+
+🏅 Python Developer Internship – TechNest Intern (MSME)
+
+---
+
+# 📊 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=Nagarajan2005A&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nagarajan2005A&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagarajan2005A&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Nagarajan2005A&theme=algolia&no-frame=true&margin-w=10)
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn → https://www.linkedin.com/in/nagarajan2005/
+
+🌐 Portfolio → https://YOUR-PORTFOLIO
+
+📧 Email → nagarajanramasamy678@gmail.com 
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
