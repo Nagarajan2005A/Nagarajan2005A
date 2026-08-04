@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nagarajan R</h1>
 
 <h3 align="center">
-Python Developer • Django Developer • Web Developer
+Full Stack Developer 
 </h3>
 
 <p align="center">
@@ -10,14 +10,11 @@ Passionate about building real-world web applications that solve practical probl
 
 ---
 
-# 🚀 About Me
+# 🚀 Professional Summary
 
-- 🎓 B.Sc Computer Science Student
-- 💻 Python & Django Developer
-- 🌱 Currently learning Full Stack Development
-- ☁️ Exploring Cloud Computing & AI
-- 🚀 Interested in Backend Development
-- 🎯 Goal: Become a Professional Full Stack Developer
+Final-year B.Sc. Computer Science student passionate about full-stack web development. Seeking an
+internship or entry-level opportunity to apply my technical skills to real-world projects and grow as a
+software developer.
 
 ---
 
